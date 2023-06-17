@@ -1,3 +1,5 @@
+use seed::*;
+
 fn main() {
-    println!("Hello, world!");
+    app();
 }

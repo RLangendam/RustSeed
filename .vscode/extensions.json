@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "rust-lang.rust-analyzer",
+    "serayuzgur.crates",
+    "bungcip.better-toml",
+    "vadimcn.vscode-lldb",
+    "ryanluker.vscode-coverage-gutters",
+    "swellaby.vscode-rust-test-adapter"
+  ]
+}
